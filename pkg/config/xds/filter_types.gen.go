@@ -323,6 +323,7 @@ import (
 	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/retry/host/previous_hosts/v3"
 	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/retry/priority/previous_priorities/v3"
 	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/stat_sinks/graphite_statsd/v3"
+	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/stat_sinks/open_telemetry/v3"
 	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/stat_sinks/wasm/v3"
 	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/transport_sockets/alts/v3"
 	_ "github.com/envoyproxy/go-control-plane/envoy/extensions/transport_sockets/http_11_proxy/v3"
