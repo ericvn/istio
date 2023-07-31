@@ -219,8 +219,8 @@ github.com/envoyproxy/go-control-plane v0.9.4/go.mod h1:6rpuAdCZL397s3pYoYcLgu1m
 github.com/envoyproxy/go-control-plane v0.9.7/go.mod h1:cwu0lG7PUMfa9snN8LXBig5ynNVH9qI8YYLbd1fK2po=
 github.com/envoyproxy/go-control-plane v0.9.9-0.20201210154907-fd9021fe5dad/go.mod h1:cXg6YxExXjJnVBQHBLXeUAgxn2UodCpnH306RInaBQk=
 github.com/envoyproxy/go-control-plane v0.9.10-0.20210907150352-cf90f659a021/go.mod h1:AFq3mo9L8Lqqiid3OhADV3RfLJnjiw63cSpi+fDTRC0=
-github.com/envoyproxy/go-control-plane v0.11.2-0.20230726084335-b501c94cb61e h1:HXKPsHR2TRMWMdbCqwWsWzNqml/+oMQO3zm5LhhoYOo=
-github.com/envoyproxy/go-control-plane v0.11.2-0.20230726084335-b501c94cb61e/go.mod h1:djL+W7LURiPM8Szxc5/47R6qMRulOSkfsDLO1CaGUNM=
+github.com/envoyproxy/go-control-plane v0.11.2-0.20230730232748-ff5d85d1fd83 h1:Q1v0NaXlQrdYyIjfOqPY8k9zdFFdc9R7uFZR9olH1hA=
+github.com/envoyproxy/go-control-plane v0.11.2-0.20230730232748-ff5d85d1fd83/go.mod h1:djL+W7LURiPM8Szxc5/47R6qMRulOSkfsDLO1CaGUNM=
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
 github.com/envoyproxy/protoc-gen-validate v1.0.1 h1:kt9FtLiooDc0vbwTLhdg3dyNX1K9Qwa1EK9LcD4jVUQ=
 github.com/envoyproxy/protoc-gen-validate v1.0.1/go.mod h1:0vj8bNkYbSTNS2PIyH87KZaeN4x9zpL9Qt8fQC7d+vs=
@@ -1374,10 +1374,10 @@ honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWh
 honnef.co/go/tools v0.0.1-2019.2.3/go.mod h1:a3bituU0lyd329TUQxRnasdCoJDkEUEAqEt0JzvZhAg=
 honnef.co/go/tools v0.0.1-2020.1.3/go.mod h1:X/FiERA/W4tHapMX5mGpAtMSVEeEUOyHaw9vFzvIQ3k=
 honnef.co/go/tools v0.0.1-2020.1.4/go.mod h1:X/FiERA/W4tHapMX5mGpAtMSVEeEUOyHaw9vFzvIQ3k=
-istio.io/api v1.19.0-alpha.1.0.20230728145147-33f61dd2b139 h1:WOZ7+MOElqty1ZSFwSR+eN22KzOLW4eu/ianehQ849I=
-istio.io/api v1.19.0-alpha.1.0.20230728145147-33f61dd2b139/go.mod h1:dDMe1TsOtrRoUlBzdxqNolWXpXPQjLfbcXvqPMtQ6eo=
-istio.io/client-go v1.19.0-alpha.1.0.20230728145749-fc6a9c6b52e2 h1:4Hf2WA35YdfshbJZPqy+Mv/KBzpn0UaDXPsdaYcMz0o=
-istio.io/client-go v1.19.0-alpha.1.0.20230728145749-fc6a9c6b52e2/go.mod h1:lXxkcPPEsRSVpV1QN67xUTwW7WUp1QKwqIPSdwDRs3E=
+istio.io/api v1.19.0-alpha.1.0.20230731144752-9d672598ede9 h1:hKLG6vLrTwGG2uaLdOy2VansJLmMri6HT36+CZgKQRY=
+istio.io/api v1.19.0-alpha.1.0.20230731144752-9d672598ede9/go.mod h1:dDMe1TsOtrRoUlBzdxqNolWXpXPQjLfbcXvqPMtQ6eo=
+istio.io/client-go v1.19.0-alpha.1.0.20230731165752-f46ee821a2b8 h1:2zVXDwKSTxHHbI9raLncPhKcZ+qSV269NET+YOwBulA=
+istio.io/client-go v1.19.0-alpha.1.0.20230731165752-f46ee821a2b8/go.mod h1:fN4uteLZwkjCPmsdos9f3YwuM/LhdXp/YmnPF6ra9m8=
 k8s.io/api v0.18.2/go.mod h1:SJCWI7OLzhZSvbY7U8zwNl9UA4o1fizoug34OV/2r78=
 k8s.io/api v0.18.4/go.mod h1:lOIQAKYgai1+vz9J7YcDZwC26Z0zQewYOGWdyIPUUQ4=
 k8s.io/api v0.28.0-beta.0 h1:RQib3xI/dxXb2TPvSVRLvAjBjOMnU7jD0GwIAbKwBqU=
